@@ -9,7 +9,7 @@ import {
   TOOGLE_TAB,
 } from './type.js';
 
-const API_URL = 'https://todolist-api.onrender.com';
+const API_URL = 'https://todolist-api-my2u.onrender.com/';
 
 export const addNewTodo = (data) => async (dispatch) => {
   try {
